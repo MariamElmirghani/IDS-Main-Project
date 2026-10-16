@@ -1,6 +1,7 @@
+
 ---
 title: "Lab 03 – Critical-Responsible Use of GenAI for Data Science"
-author: "Team Name: User1, User2, Mariam, No-one"
+author: "Keep it LEM: Layla, Emilia, Mariam"
 date: "`r Sys.Date()`"
 output: html_document
 ---
@@ -250,4 +251,3 @@ or
 # Wrapping Up
 
 _Save, commit, and push your file. Remember to acknowledge any GenAI help above._
-
